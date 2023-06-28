@@ -1,0 +1,2 @@
+DATASET-GRUPO05 -> corresponde a los datos de los nodos ("Nombre" "Municipalidad" "Latitud" "Longitud")
+dataset -> corresponde a los nodos y sus conexiones (los que se usan en el programa)
